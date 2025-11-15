@@ -1702,4 +1702,4 @@ echo "3. Test the API: ./test_api.sh"
 echo "4. Connect from your frontend using the IP above"
 echo ""
 echo "The system is ready to accept recording requests!"
-echo ""
+echo ""a

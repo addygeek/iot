@@ -1,0 +1,12 @@
+model_path: $PROJECT_DIR/$VOSK_MODEL_NAME
+sample_rate: 16000
+channels: 1
+block_duration_ms: 500
+wav_format: PCM_16
+save_dir: $PROJECT_DIR/recordings
+summarizer: detailed
+extractive_sentences: 5
+auto_summary_interval_seconds: 0
+mic_device_name: null
+server_port: 5000
+server_host: 0.0.0.0
